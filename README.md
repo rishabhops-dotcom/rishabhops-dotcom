@@ -34,7 +34,7 @@
 ### 📬 Let's Connect!
 - 📧 **[rishabh0306rk@gmail.com](rishabh0306rk@gmail.com)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/arifullashaikofficial/)
-- 📞 [Phone] : 9399977472
+- 📞 Phone : 
 
 ---
 
