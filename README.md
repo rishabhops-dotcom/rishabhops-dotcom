@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Arifulla Shaik!
+# 👋 Hey there, I'm Rishab M!
 
 🚀 **DevOps Engineer** | Azure| AWS | Terraform |VMWare|  Azure Devops| Github Actions | Jenkins | Docker | Kubernetes | CI/CD | Linux
 
@@ -32,26 +32,9 @@
 ---
 
 ### 📬 Let's Connect!
-- 📧 **[arifullashaik8888@gmail.com](mailto:arifullashaik8888@gmail.com)**
+- 📧 **[rishabh0306rk@gmail.com](rishabh0306rk@gmail.com)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/arifullashaikofficial/)
-- 📞 [Phone](http://wa.me/9381612568)
+- 📞 [Phone](http://wa.me/9399977472)
 
 ---
 
-### 💡 Quote I live by:
-> *"Learning in public, building every day, and aiming to break into the cloud world with passion & consistency."*
-
-<!--
-**rishabhops-dotcom/rishabhops-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
