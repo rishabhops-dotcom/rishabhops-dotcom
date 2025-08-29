@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rishab M!
+# 👋 Hey there, I'm Rishabh M!
 
 🚀 **DevOps Engineer** | Azure| AWS | Terraform |VMWare|  Azure Devops| Github Actions | Jenkins | Docker | Kubernetes | CI/CD | Linux
 
